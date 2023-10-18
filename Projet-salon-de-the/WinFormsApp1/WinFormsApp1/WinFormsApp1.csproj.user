@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAjouterBoissons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAjouterCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAjouterServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataGridSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataGridSearchBoissons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormListerCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormListerServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifierCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRechercherBoissons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRechercherCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSearchCommandeDataGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSearchServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSelectBoissons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSupprimerBoissons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSupprimerCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSupprimerServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUpdateBoissons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUpdateServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InputBilan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListerBilan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
